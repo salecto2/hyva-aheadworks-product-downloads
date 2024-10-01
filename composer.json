@@ -1,6 +1,6 @@
 {
     "name": "salecto2/hyva-aheadworks-product-downloads",
-    "description": "Hyva compatibility module for Aheadworks product downloads module",
+    "description": "Hyva compatibility module for aheadworks product downloads module",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
