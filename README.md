@@ -1,4 +1,4 @@
-# hyva-aheadworks-product-downloads
+# Hyva Aheadworks Product Downloads
 
 - **Original Module Link**
 https://ecommerce.aheadworks.com/magento-2-extensions/product-downloads
