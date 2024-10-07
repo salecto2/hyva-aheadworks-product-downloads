@@ -1,5 +1,5 @@
 {
-    "name": "salecto2/hyva-aheadworks-product-downloads",
+    "name": "salecto2/magento2-hyva-aheadworks-product-downloads",
     "description": "Hyva compatibility module for aheadworks product downloads module",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -14,7 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Salecto\\HyvaProductDownloads\\": ""
+            "Salecto\\HyvaAheadworksProductDownloads\\": ""
         }
     }
 }

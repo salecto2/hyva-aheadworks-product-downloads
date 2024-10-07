@@ -5,7 +5,7 @@
             <argument name="compatModules" xsi:type="array">
                 <item name="hyva-product-downloads" xsi:type="array">
                     <item name="original_module" xsi:type="string">Aheadworks_ProductDownloads</item>
-                    <item name="compat_module" xsi:type="string">Salecto_HyvaProductDownloads</item>
+                    <item name="compat_module" xsi:type="string">Salecto_HyvaAheadworksProductDownloads</item>
                 </item>
             </argument>
         </arguments>
