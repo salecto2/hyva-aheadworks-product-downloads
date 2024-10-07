@@ -1,0 +1,11 @@
+@layer components {
+    .file-item
+    {
+        @apply flex gap-4 items-center my-2;
+    }
+
+    .file-icon
+    {
+        @apply h-10;
+    }
+}

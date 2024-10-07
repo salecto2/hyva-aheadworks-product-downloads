@@ -1,0 +1,20 @@
+{
+    "name": "salecto2/magento2-hyva-aheadworks-product-downloads",
+    "description": "Hyva compatibility module for aheadworks product downloads module",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "see LICENSE.md",
+    "require": {
+        "php": "~7.4.0||~8.1.0||~8.2.0",
+        "magento/framework": "103.0.*",
+        "aheadworks/module-product-downloads": "^1.0.7"
+    },
+    "autoload": {
+        "files": [
+            "src/registration.php"
+        ],
+        "psr-4": {
+            "Salecto\\HyvaAheadworksProductDownloads\\": "src/"
+        }
+    }
+}
