@@ -12,5 +12,3 @@ Run the following command in Magento 2 root folder:
 3. Run `php bin/magento setup:di:compile`
 4. Run `php bin/magento setup:static-content:deploy`
 5. Run `php bin/magento cache:clean`
-
-### Uninstall module
